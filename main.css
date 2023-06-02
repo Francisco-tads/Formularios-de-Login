@@ -256,6 +256,6 @@ small {
     height: 350px;
     margin: 40px auto;
     perspective: 500px;
-    text-align: left;
+    text-align: center;
   }
 }
