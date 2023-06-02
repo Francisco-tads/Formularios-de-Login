@@ -249,3 +249,13 @@ small {
     cursor: pointer;
   }
 }
+
+@media (max-width: 768px) {
+  .wrapper {
+    width: 240px;
+    height: 350px;
+    margin: 40px auto;
+    perspective: 500px;
+    text-align: left;
+  }
+}
